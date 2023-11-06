@@ -2,7 +2,7 @@
 date: '3'
 title: 'Natural Language to SQL'
 cover: './simple.png'
-github: 'https://github.com/pramitij/GPT-to-SQLp'
+github: 'https://github.com/pramitij/GPT-to-SQL'
 cta: ''
 tech:
   - Python
