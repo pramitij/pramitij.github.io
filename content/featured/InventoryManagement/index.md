@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '3'
 title: 'Inventory Management Systems'
 cover: './inventory.png'
 github: 'https://github.com/pramitij/Design-Patterns-Final-Project'

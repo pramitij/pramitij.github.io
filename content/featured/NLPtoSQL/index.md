@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'Natural Language to SQL'
 cover: './simple.png'
 github: 'https://github.com/pramitij/GPT-to-SQL'

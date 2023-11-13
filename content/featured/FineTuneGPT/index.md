@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '1'
 title: 'Fine Tuning GPT'
 cover: './demo.png'
 github: 'https://github.com/pramitij/Fine-tune-GPT'

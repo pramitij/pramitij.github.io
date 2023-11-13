@@ -59,11 +59,11 @@ const Contact = () => {
 
       <h2 className="title">Get In Touch</h2>
 
-      <p>
-        Thank you for taking the time to learn a little about me. I’m currently seeking full-time roles within the Software Development,
-        Infrastructure, Cloud, and Data domains. If you are seeking a driven, result-oriented Software Engineer who values continuous
-         learning and improvement, I'd love to hear from you. Let's connect to explore opportunities and expand our networks!
-      </p>
+       <p>
+          Thank you for taking the time to learn a little about me. I’m currently seeking full-time roles within the Software Development,
+           AIML, Cloud Infrastructure & Data domains. If you are seeking a driven, result-oriented Software Engineer who values continuous
+           learning and improvement, I'd love to hear from you. Let's connect to explore opportunities and expand our networks!
+       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
         Say Hello

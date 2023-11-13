@@ -4,9 +4,9 @@ module.exports = {
   siteMetadata: {
     title: 'Pramithi Jagdish',
     description:
-      'Pramithi jagdish is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+    description:'Pramithi Jagdish is a software engineer who specializes in crafting full-stack solutions that drive efficiency, scalability, and stability.',
     siteUrl: 'https://pramitij.github.io', // No trailing slash allowed!
-    image: '', // Path to your image you placed in the 'static' folder
+    image: 'og3.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },
   plugins: [

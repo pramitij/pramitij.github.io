@@ -141,8 +141,8 @@ const About = () => {
             </p>
               <p>
               From learning about distributed systems at {' '}
-              <a href="https://starry.com/">Amazon Robotics</a>, to pioneering data operations at{' '}
-              <a href="https://www.apple.com/">Accenture</a>, I've embraced the challenge of driving
+              <a href="https://www.aboutamazon.com/news/tag/robotics">Amazon Robotics</a>, to pioneering data operations at{' '}
+              <a href="https://www.accenture.com/in-e/">Accenture</a>, I've embraced the challenge of driving
               efficiency and scalability in every line of code.
               </p>
               <p>

@@ -35,7 +35,7 @@ const StyledHeroSection = styled.section`
 
   h3 {
     margin-top: 5px;
-    color: var(--slate);
+    color: var(--green);
     line-height: 0.9;
   }
 
@@ -96,11 +96,11 @@ const Hero = () => {
   const four  = (
     <>
       <p>
-        I craft full-stack solutions that drive efficiency, scalability, and stability, leveraging ML precision
-        and robust Cloud Infrastructure. Armed with these skills and a spirit of innovation, I am gearing up to
-        bring resilient engineering to a team that leads the tech of tomorrow.
-       </p>
-      </>
+          I'm a Full-Stack Software Engineer with an eye for integrating Machine Learning and robust Cloud Infrastructure
+          to build solutions that drive efficiency, scalability, and stability. Fueled by a relentless drive for innovation,
+          I am gearing up to bring resilient engineering to a team that can shape the technology of tomorrow.
+      </p>
+    </>
 //      Discover the multiplicity of my journey — where every line of code tells a story of possibility.
 
 //        {' '}<a href="https://www.northeastern.edu/" target="_blank" rel="noreferrer">
@@ -109,29 +109,31 @@ const Hero = () => {
 
 
   );
-  const five = (
-    <a
-      className="email-link"
-//      href=About //PICK UP HERE
+//  const five = (
+//    <a
+//      className="email-link"
+////      href=About //PICK UP HERE
+////      target="_blank"
+//      rel="noreferrer">
+//      Learn more about me!
+//    </a>
+//
+//   );
+//   const six = (
+//    <a
+//      className="email-link"
+//      href="https://www.newline.co/courses/build-a-spotify-connected-app"
 //      target="_blank"
-      rel="noreferrer">
-      Learn more about me!
-    </a>
-
-   );
-   const six = (
-    <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer">
-      Jump to my project
-    </a>
-  );
+//      rel="noreferrer">
+//      Jump to my project
+//    </a>
+//  );
   const ButtonGroup = (
     <div style={{
       display: 'flex', // Make the container a flex container
       justifyContent: 'space-around', // Adjust the space between the buttons
+      paddingTop: '30px',
+      paddingLeft: '-10px',
       padding: '10px',
       width: '100%', // Optional: Set a specific width if needed
       maxWidth: '600px', // Optional: Set a maximum width if needed
