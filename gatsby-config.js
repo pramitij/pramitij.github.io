@@ -3,7 +3,6 @@ const config = require('./src/config');
 module.exports = {
   siteMetadata: {
     title: 'Pramithi Jagdish',
-    description:
     description:'Pramithi Jagdish is a software engineer who specializes in crafting full-stack solutions that drive efficiency, scalability, and stability.',
     siteUrl: 'https://pramitij.github.io', // No trailing slash allowed!
     image: 'og3.png', // Path to your image you placed in the 'static' folder
