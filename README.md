@@ -51,6 +51,5 @@
 | White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
 | Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
 
-### TL;DR
 
 Template from [brittanychiang.com](https://brittanychiang.com).
